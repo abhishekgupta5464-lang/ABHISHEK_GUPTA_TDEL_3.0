@@ -1,0 +1,39 @@
+JOHN SMITH
+Email: john.smith@email.com | Phone: +1-555-0123
+LinkedIn: linkedin.com/in/johnsmith | GitHub: github.com/johnsmith
+
+PROFESSIONAL SUMMARY
+Results-driven Python Developer with 3+ years of experience in building scalable web applications,
+machine learning pipelines, and cloud-native solutions. Passionate about data science and AI.
+
+SKILLS
+Python, JavaScript, SQL, Machine Learning, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy,
+Docker, AWS, Git, REST API, Flask, FastAPI, React, MongoDB, PostgreSQL, Linux, Agile, Scrum
+
+EXPERIENCE
+Software Developer | TechCorp Inc. | 2021 - Present
+- Developed REST APIs using Python Flask serving 50K+ daily requests
+- Built machine learning models for customer churn prediction achieving 92% accuracy
+- Deployed applications on AWS using Docker and EC2
+- Collaborated in Agile team of 8 developers using Git and CI/CD pipelines
+
+Junior Developer Intern | StartupXYZ | 2020 - 2021
+- Created data analysis dashboards using Python Pandas and Matplotlib
+- Automated testing pipelines reducing QA time by 30%
+- Worked with PostgreSQL databases and SQL queries
+
+EDUCATION
+Bachelor of Technology in Computer Science
+State University | 2016 - 2020 | GPA: 3.8/4.0
+
+PROJECTS
+Smart Resume Parser - Built an NLP-based resume parsing tool using Python and spaCy
+E-Commerce API - Developed a microservices-based e-commerce backend with FastAPI and Docker
+Stock Predictor - Machine learning model using TensorFlow for stock price prediction
+
+CERTIFICATIONS
+AWS Certified Developer Associate
+Google Data Analytics Professional Certificate
+
+LANGUAGES
+English (Fluent), Hindi (Native)

@@ -1,0 +1,41 @@
+SARAH JOHNSON
+sarah.johnson@email.com | (555) 987-6543
+linkedin.com/in/sarahjohnson | github.com/sarahjohnson
+
+SUMMARY
+Data Scientist with 5 years of experience in machine learning, deep learning, and statistical
+analysis. Expert in building end-to-end ML pipelines and deploying models in production.
+
+TECHNICAL SKILLS
+Python, R, SQL, Machine Learning, Deep Learning, NLP, Computer Vision, TensorFlow, PyTorch,
+Scikit-learn, Pandas, NumPy, Spark, Hadoop, AWS, Azure, Docker, Kubernetes, Tableau, Power BI,
+Statistics, A/B Testing, Git
+
+WORK EXPERIENCE
+Senior Data Scientist | DataDriven Corp | 2022 - Present
+- Led team of 4 data scientists building recommendation engine serving 2M users
+- Implemented deep learning models for NLP tasks achieving 95% F1 score
+- Built ETL pipelines using Apache Spark processing 10TB daily data
+- Deployed ML models on AWS SageMaker with Kubernetes orchestration
+
+Data Analyst | AnalyticsPro | 2019 - 2022
+- Developed predictive models using scikit-learn for sales forecasting
+- Created interactive dashboards in Tableau and Power BI
+- Performed A/B testing increasing conversion rate by 18%
+
+EDUCATION
+Master of Science in Data Science | MIT | 2017 - 2019
+Bachelor of Science in Mathematics | UCLA | 2013 - 2017
+
+PROJECTS
+Sentiment Analysis Engine - Built BERT-based NLP model for social media sentiment analysis
+Customer Segmentation - Unsupervised learning pipeline using K-Means and PCA on 1M records
+Real-time Fraud Detection - Streaming ML pipeline with Kafka and Spark
+
+CERTIFICATIONS
+AWS Certified Machine Learning Specialty
+Microsoft Azure Data Scientist Associate
+Google Professional Data Engineer
+
+LANGUAGES
+English (Native), Spanish (Intermediate), French (Basic)

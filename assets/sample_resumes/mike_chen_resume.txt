@@ -1,0 +1,26 @@
+MIKE CHEN
+mike.chen@email.com | 555-456-7890
+github.com/mikechen
+
+OBJECTIVE
+Recent Computer Science graduate seeking entry-level software development role.
+
+SKILLS
+Java, Python, HTML, CSS, JavaScript, Git, MySQL, Linux, Problem Solving, Teamwork
+
+EXPERIENCE
+Software Engineering Intern | LocalTech | Summer 2025
+- Assisted in developing Java Spring Boot REST APIs
+- Fixed bugs and wrote unit tests using JUnit
+- Participated in daily standups and code reviews
+
+EDUCATION
+Bachelor of Science in Computer Science
+Community College | 2021 - 2025
+
+PROJECTS
+Todo App - Built a full-stack todo application using Java and MySQL
+Personal Portfolio Website - Created responsive website using HTML, CSS, JavaScript
+
+LANGUAGES
+English, Mandarin

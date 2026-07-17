@@ -1,0 +1,33 @@
+Data Scientist
+IBM Analytics Division
+
+Job Summary:
+Join IBM's Analytics team as a Data Scientist to build cutting-edge ML solutions
+for enterprise clients worldwide.
+
+Required Skills:
+- Python and R programming
+- Machine Learning and Deep Learning
+- SQL and Database Management
+- Statistics and A/B Testing
+- Pandas, NumPy, Scikit-learn
+- Data Visualization (Tableau, Power BI)
+- Git Version Control
+
+Preferred Skills:
+- TensorFlow and PyTorch
+- NLP and Computer Vision
+- Apache Spark and Hadoop
+- AWS or Azure Cloud
+- Docker and Kubernetes
+
+Experience Required:
+3 to 5 years of experience in data science or analytics roles
+
+Education:
+Master's degree in Data Science, Statistics, Mathematics, or Computer Science.
+PhD is a plus.
+
+Keywords:
+Data Science, Machine Learning, Python, Deep Learning, NLP, SQL, Statistics,
+TensorFlow, Spark, AWS, A/B Testing, Tableau, Computer Vision

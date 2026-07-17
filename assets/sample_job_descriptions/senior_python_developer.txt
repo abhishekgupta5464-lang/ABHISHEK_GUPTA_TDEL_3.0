@@ -1,0 +1,41 @@
+Senior Python Developer
+IBM | Remote / Hybrid
+
+About the Role:
+We are seeking an experienced Senior Python Developer to join our AI and Cloud team.
+You will design and build scalable backend systems, ML pipelines, and cloud-native applications.
+
+Required Skills:
+- Python (5+ years experience)
+- Machine Learning and Data Science
+- AWS Cloud Services (EC2, S3, Lambda)
+- Docker and Kubernetes
+- REST API Development
+- SQL and PostgreSQL
+- Git and CI/CD
+- Agile/Scrum methodologies
+
+Preferred Skills:
+- TensorFlow or PyTorch
+- FastAPI or Flask
+- Apache Spark
+- NLP and Computer Vision
+- Microservices Architecture
+
+Experience Required:
+Minimum 4 years of professional software development experience
+
+Education:
+Bachelor's degree in Computer Science, Engineering, or related field.
+Master's degree preferred.
+
+Responsibilities:
+- Design and implement scalable Python backend services
+- Build and deploy machine learning models in production
+- Collaborate with cross-functional teams in Agile environment
+- Mentor junior developers and conduct code reviews
+- Optimize application performance and reliability
+
+Keywords:
+Python, Machine Learning, AWS, Docker, Kubernetes, REST API, SQL, PostgreSQL,
+Agile, TensorFlow, FastAPI, Microservices, Cloud Computing, DevOps, CI/CD
